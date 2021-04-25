@@ -1,1 +1,1 @@
-# vue-calc
+# vue-calculator
